@@ -8,3 +8,5 @@ Here for price we want to predict continuous values i.e house price. This is not
 
 XGBoost Regression is a type of decision tree algorithm. If we want to be more precise this is decision tree based ensemble model. 
 Ensemble meaning we use more than one model. It is like incorporating 2 or more models together. 
+
+If you can't see the file or it shows some type of error, download it to view it.
